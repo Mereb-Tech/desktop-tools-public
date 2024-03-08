@@ -1,2 +1,2 @@
 @echo off
-start "" "on-startup.exe" --default
+start "" "C:\kokeb/StartKokebGames.exe" --default
